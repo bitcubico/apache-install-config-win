@@ -1,7 +1,7 @@
 # apache-install-config-win
 **Pasos para instalar y configurar un servidor apache en windows**
 
-## Instalación
+## Descarga
 1. Vaya al sitio oficial de **Apache [aquí](http://httpd.apache.org/)**
 2. Clic en el link ["Download"](http://httpd.apache.org/download.cgi) que le permitirá descargar la ultima versión estable de **Apache**
 3. Clic en el link ["Files for Microsoft Windows"](http://httpd.apache.org/docs/current/platform/windows.html#down)
