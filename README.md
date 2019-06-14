@@ -30,3 +30,5 @@ Por defecto es: **`ServerAdmin admin@example.com`**
 Por defecto es: *htdocs*
 **`DocumentRoot "${SRVROOT}/htdocs"`**
 **`<Directory "${SRVROOT}/htdocs">`**
+
+[**Ver cómo configurar PHP**](https://github.com/bitcubico/php-install-config-win/blob/master/README.md)
