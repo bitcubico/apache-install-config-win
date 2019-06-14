@@ -15,4 +15,4 @@ Tenga en cuenta que debe tener instalada en su computadora ***Visual C++ Redistr
 1. Abra una *linea de comandos como administrador*
 2. Ubiquese en el directorio **C:/Apache24/bin**
 3. Ejecute el comando `httpd.exe -k install -n "Apache HTTP Server"`
-4. **En el navegador web** navegue a la url `localhost` para verificar que **Apache** este funcionando.
+4. **En el navegador web** navegue a la url `localhost` para verificar que **Apache** este funcionando. Se debe ver el mensaje **It works!**
